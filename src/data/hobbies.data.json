@@ -1,0 +1,33 @@
+[{
+        "id": 0,
+        "src": "/images/hobbies/hero-discord.png",
+        "title": "Discord",
+        "description": "I came to Discord around 2017. I really like to be best in everything I am there and in Discord I develop the first, best, open-source, indian economy discord-bot, soo it is very enjoyable for me.",
+        "width": 250,
+        "height": 250
+    },
+    {
+        "id": 1,
+        "src": "/images/hobbies/hero-gaming.png",
+        "title": "Gaming",
+        "description": "The gaming is a good way to exercise on your reflexes. I came to gaming around 2016 and been here for around 4 years and I love to play fps games on desktop and mobile devices and I also love the Championship event orgranised by them as I can see and fight with other skilled player.",
+        "width": 400,
+        "height": 400
+    },
+    {
+        "id": 2,
+        "src": "/images/hobbies/hero-instagram.png",
+        "title": "Instagram",
+        "description": "I came to Instagram around 2016 and I always wanted to work in social media, and the same thing happened on Instagram and I started producing content in this community.",
+        "width": 250,
+        "height": 250
+    },
+    {
+        "id": 3,
+        "src": "/images/hobbies/hero-astronaut.png",
+        "title": "Space",
+        "description": "I love learning about space and the universe, and everything connected to it, like quantum physics, which proves a variety of dizzying theories, such as parallel universes, Continuity, singularity, time travel, black holes, and white holes.",
+        "width": 400,
+        "height": 400
+    }
+]

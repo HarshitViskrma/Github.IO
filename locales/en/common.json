@@ -1,0 +1,15 @@
+{
+    "explore": "EXPLORE MORE",
+    "order": "ORDER NOW",
+    "aside": [
+        { "userTitle": "Penetration tester" },
+        { "userSubtitle": "Bug Bounty Hunter" },
+        { "residence": "Residence" },
+        { "city": "City" },
+        { "age": "Age" },
+        { "hindi": "Hindi" },
+        { "english": "English" },
+        { "german": "German" },
+        { "download": "DOWNLOAD CV" }
+    ]
+}
